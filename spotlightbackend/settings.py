@@ -97,12 +97,12 @@ CORS_ALLOW_CREDENTIALS = True
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
-    "https://spotlight-psi-six.vercel.app/"
+    "https://spotlight-psi-six.vercel.app"
 ]
 
 CSRF_TRUSTED_ORIGINS = [
     "http://localhost:3000",
-    "https://spotlight-psi-six.vercel.app/",
+    "https://spotlight-psi-six.vercel.app",
 ]
 
 
